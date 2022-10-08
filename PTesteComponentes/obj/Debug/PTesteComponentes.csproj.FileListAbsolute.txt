@@ -1,0 +1,40 @@
+c:\users\0030482213042\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.exe.config
+c:\users\0030482213042\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.exe
+c:\users\0030482213042\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.pdb
+c:\users\0030482213042\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csprojResolveAssemblyReference.cache
+c:\users\0030482213042\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.Form1.resources
+c:\users\0030482213042\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.Properties.Resources.resources
+c:\users\0030482213042\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csproj.GenerateResource.Cache
+c:\users\0030482213042\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.exe
+c:\users\0030482213042\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.pdb
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects-20220827T160118Z-001\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.exe.config
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects-20220827T160118Z-001\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.exe
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects-20220827T160118Z-001\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.pdb
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects-20220827T160118Z-001\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csproj.AssemblyReference.cache
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects-20220827T160118Z-001\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects-20220827T160118Z-001\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.Form1.resources
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects-20220827T160118Z-001\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.Properties.Resources.resources
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects-20220827T160118Z-001\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csproj.GenerateResource.cache
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects-20220827T160118Z-001\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csproj.CoreCompileInputs.cache
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects-20220827T160118Z-001\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.exe
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects-20220827T160118Z-001\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.pdb
+E:\i'am\Fatec\2 semestre\Linguagem de Programação 1\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.exe.config
+E:\i'am\Fatec\2 semestre\Linguagem de Programação 1\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.exe
+E:\i'am\Fatec\2 semestre\Linguagem de Programação 1\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.pdb
+E:\i'am\Fatec\2 semestre\Linguagem de Programação 1\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csprojAssemblyReference.cache
+E:\i'am\Fatec\2 semestre\Linguagem de Programação 1\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.Form1.resources
+E:\i'am\Fatec\2 semestre\Linguagem de Programação 1\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.Properties.Resources.resources
+E:\i'am\Fatec\2 semestre\Linguagem de Programação 1\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csproj.GenerateResource.cache
+E:\i'am\Fatec\2 semestre\Linguagem de Programação 1\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.exe
+E:\i'am\Fatec\2 semestre\Linguagem de Programação 1\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.pdb
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.exe.config
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.exe
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.pdb
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csproj.AssemblyReference.cache
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.Form1.resources
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.Properties.Resources.resources
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csproj.GenerateResource.cache
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csproj.CoreCompileInputs.cache
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.exe
+C:\Users\guivi\Desktop\i'am computer\Fatec\2 semestre\Linguagem de Programação 2\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.pdb
